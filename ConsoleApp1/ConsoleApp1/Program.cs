@@ -11,6 +11,7 @@ namespace ConsoleApp1
             Console.WriteLine("three");
             Console.WriteLine("four");
             Console.WriteLine("five");
+            Console.WriteLine("6");
         }
     }
 }
